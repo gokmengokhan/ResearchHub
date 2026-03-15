@@ -10,7 +10,8 @@ Found an issue or have a feature request? [Open an issue](https://github.com/gok
 
 ## Links
 
-- [Download on the Mac App Store](#) *(coming soon)*
+- [Support](https://gokmengokhan.github.io/projectdesk-site/support.html)
+- [Privacy Policy](https://gokmengokhan.github.io/projectdesk-site/privacy-policy.html)
 
 ## Contact
 
